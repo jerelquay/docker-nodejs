@@ -1,5 +1,5 @@
 # docker-nodejs
-Sample of building container from Dockerfile &amp; Running in container
+Sample of building nodejs from a Dockerfile &amp; Running in container
 
 ## Building of the image
 ```shell
